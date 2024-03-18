@@ -139,6 +139,6 @@ path = libs/testo
 url = https://github.com/semgrep/testo.git
 
 [submodule "semgrep/libs/testa"]
-path = libs/testa
+path = libs/testb
 url = https://github.com/semgrep/testo.git
 
