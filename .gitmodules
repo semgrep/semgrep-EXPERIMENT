@@ -138,7 +138,3 @@ url = https://github.com/returntocorp/semgrep-dart.git
 path = libs/testo
 url = https://github.com/semgrep/testo.git
 
-[submodule "semgrep/libs/testa"]
-path = libs/testa
-url = https://github.com/semgrep/testo.git
-
