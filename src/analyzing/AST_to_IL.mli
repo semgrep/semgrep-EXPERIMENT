@@ -1,3 +1,4 @@
+(* TEST *)
 type ctx
 
 val empty_ctx : ctx
